@@ -3,7 +3,7 @@ entries:
   jmeter:
   - apiVersion: v1
     appVersion: "4.0"
-    created: "2020-04-20T10:37:24.5480248+02:00"
+    created: "2020-04-20T10:52:47.5399651+02:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -14,7 +14,7 @@ entries:
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: 0.10.0
     description: Ditributed jmeter test workflow inside kuberentes
-    digest: 3061c6fa851ee475f1e02a7f4f2f7adfd32a19ddbc40d48ec81564076e47a85b
+    digest: d8c4ccba0a7616ec942314441bb6c937917b5bb6e52c48d25b5deede7632c0fb
     home: https://github.com/kaarolch/kubernetes-jmeter
     icon: https://kaarolch.github.io/kubernetes-jmeter/images/jmeter-k8s.png
     maintainers:
@@ -28,7 +28,7 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: "4.0"
-    created: "2020-04-20T10:37:24.5450247+02:00"
+    created: "2020-04-20T10:52:47.5360122+02:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -53,7 +53,7 @@ entries:
     version: 0.1.0
   - apiVersion: v1
     appVersion: "4.0"
-    created: "2020-04-20T10:37:24.5410241+02:00"
+    created: "2020-04-20T10:52:47.5179643+02:00"
     dependencies:
     - condition: grafana.enabled
       name: grafana
@@ -76,4 +76,4 @@ entries:
     urls:
     - https://lschnetler.github.io/kubernetes-jmeter/charts/jmeter-0.0.3.tgz
     version: 0.0.3
-generated: "2020-04-20T10:37:24.5360542+02:00"
+generated: "2020-04-20T10:52:47.4969682+02:00"
