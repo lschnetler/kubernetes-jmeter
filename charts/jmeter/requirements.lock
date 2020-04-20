@@ -3,7 +3,7 @@ dependencies:
   repository: https://kubernetes-charts.storage.googleapis.com/
   version: 1.13.1
 - name: influxdb
-  repository: https://kubernetes-charts.storage.googleapis.com/
-  version: 0.10.0
-digest: sha256:ebcdc44ba222d9077366bbfb61816626d1805d06055dadbd45613bec11a6e946
-generated: "2020-04-20T10:36:51.4645528+02:00"
+  repository: https://helm.influxdata.com/
+  version: 4.4.5
+digest: sha256:589500fcd2d39dc4699b24966424181b9c07c17b164a3d1a86be0f78e4d84c57
+generated: "2020-04-20T11:35:27.4348393+02:00"
